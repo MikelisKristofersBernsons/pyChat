@@ -6,3 +6,13 @@ body{
 	color: turquoise;
 	font-size:300%;
 }
+
+.chat-back-box{
+	margin:200px;
+	background-color: white;
+}
+
+.fill{
+	height: 100%;
+	widows: 100%;
+}
